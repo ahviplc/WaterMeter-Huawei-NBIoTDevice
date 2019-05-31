@@ -2,6 +2,8 @@
 #### 1. 华为IoT平台，开发编解码插件的DEMO工程
 #### 2. 未完待续
 
+开发编解码插件_IoT平台增强版_开发指南_参考信息_编解码插件_线下开发参考_华为云
+https://support.huaweicloud.com/devg-IoT/iot_02_4021.html
 
 **欢迎来到 [LC博客-一加壹博客最Top](http://www.oneplusone.vip)**
 
